@@ -98,7 +98,9 @@
   <div style="background-color: #111; padding: 20px; border-radius: 10px;">
     <table>
       <tr>
-        
+        <td>
+          <img width="500" src="https://streak-stats.demolab.com/?user=AmitKumar1811&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&theme=dark" />
+        </td> 
         <td>
           <img width="500" src="https://github-readme-stats.vercel.app/api?username=AmitKumar1811&show_icons=true&border_radius=5&include_all_commits=true&hide_border=true&theme=dark" />
         </td>
